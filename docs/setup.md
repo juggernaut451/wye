@@ -34,7 +34,7 @@ Follow this guide to setup your development machine.
 6. Creating user
 
     ```
-    sudo -u postgres createuser <user> -s --pwprompt
+    sudo -u postgres createuser [user] -s --pwprompt
 
     ```
     
@@ -44,9 +44,9 @@ Follow this guide to setup your development machine.
     nano settings/dev.py
     ```  
     
-    >USER: "[user]"
+    >USER: [user]
    
-    >PASSWORD: "[password enter on prompt at user creation]"
+    >PASSWORD: [password enter on prompt at user creation]
 
 7. Create an empty postgres database and run database migration.
 
