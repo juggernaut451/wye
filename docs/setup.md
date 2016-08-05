@@ -47,7 +47,7 @@ Follow this guide to setup your development machine.
     
     USER: "<user>";
 
-    PASSWORD: "<password enter on prompt at user creation"
+    PASSWORD: "<password enter on prompt at user creation>"
 
 7. Create an empty postgres database and run database migration.
 
