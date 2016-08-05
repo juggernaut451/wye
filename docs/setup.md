@@ -44,8 +44,8 @@ Follow this guide to setup your development machine.
     nano settings/dev.py
     ```  
     
-    >USER: "<user>"
-    >PASSWORD: "<password enter on prompt at user creation>"
+    >USER: "[user]"
+    >PASSWORD: "[password enter on prompt at user creation]"
 
 7. Create an empty postgres database and run database migration.
 
